@@ -40,3 +40,4 @@ public class Main {
         System.out.println("compare(\"ab\", \"AB\") = " + compare("ab", "AB", Comparator.naturalOrder()));
     }
 }
+
